@@ -1,0 +1,28 @@
+.button{
+    background-color: #F7CA00;
+    padding: 5px 15px;
+    width: 10%;
+    border-radius: 10%;
+    margin: 0 auto;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    list-style-type: none;
+    margin: 1rem;
+}
+.cards_container{
+    display: flex;
+    justify-content: center;
+    width: 60%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+.cards{
+    display: flex;
+    width: 30%;
+    justify-content: center;
+    flex-direction: column;
+}
